@@ -1,23 +1,25 @@
 <!Doctype html>
 <html>
- <head>
-   <title>About Myself</title>
+
+
+<head>
+<title>About Myself</title>
 </head>
- </html>
- <body>
-<font size="10" face="Arial"><font color="blue"><u><center>About Myself</center></u></font>
+</html>
+<body>
+<font size="10" face="Arial"><font color="red"><u><center>About Myself</center></u></font>
 <caption>Academic Information<br></caption>
 <table border="1" width="1850">
 <tr>
 <th>Name</th>
- <td colspan="2">Rafiul Islam Shanto</td>
+<td colspan="2">Rafiul Islam Shanto</td>
 </tr>
 <tr>
 <th>Student ID</th>
 <td colspan="2">011201479</td>
 </tr>
 <tr><th>School</th>
- <td>Dewanganj Govt. High School</td><th>Passing year<th><td>2014</td><td><a href="https://mobile.facebook.com/ibnulh728/?ref=bookmarks">Link of School</td></tr>
+<td>Dewanganj Govt. High School</td><th>Passing year<th><td>2014</td><td><a href="https://mobile.facebook.com/ibnulh728/?ref=bookmarks">Link of School</td></tr>
 <tr>
 <th>College</th><td>Sylhet polytechnic institute</td><th>Passing Year</th>
 <td>2019</td>
